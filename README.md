@@ -57,7 +57,7 @@ O sistema foi pensado para reduzir o tempo de resposta a incidentes, melhorar a 
 <h2 align="center">💻 Dashboard do NetGuard Pro</h2>
 
 <p align="center">
-  <img src="screen.png/screen.png" alt="Dashboard do NetGuard Pro" width="100%">
+  <img src="./screen.png" alt="Dashboard do NetGuard Pro" width="100%">
 </p>
 
 <p align="center">
