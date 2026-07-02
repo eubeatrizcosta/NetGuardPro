@@ -54,11 +54,14 @@ O sistema foi pensado para reduzir o tempo de resposta a incidentes, melhorar a 
 
 # 🖥️ Dashboard
 
-> *Exemplo ilustrativo*
+<h2 align="center">💻 Dashboard do NetGuard Pro</h2>
 
 <p align="center">
-  <img src="Downloads/screen.png" width="900"/>
+  <img src="screen.png/screen.png" alt="Dashboard do NetGuard Pro" width="100%">
+</p>
 
+<p align="center">
+  <em>Interface fictícia desenvolvida para representar o painel principal da plataforma NetGuard Pro.</em>
 </p>
 
 ---
