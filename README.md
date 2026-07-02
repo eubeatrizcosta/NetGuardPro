@@ -57,8 +57,7 @@ O sistema foi pensado para reduzir o tempo de resposta a incidentes, melhorar a 
 > *Exemplo ilustrativo*
 
 <p align="center">
-
-<img src="docs/dashboard.png" width="900">
+  <img src="Downloads/screen.png" width="900"/>
 
 </p>
 
